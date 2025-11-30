@@ -26,12 +26,7 @@ Currently focusing on:
 ---
 
 ## 🔧 Projects
-- 🎯 *Student Manager (Python + CSV)*  
-- 🛒 *Shop List CLI App*  
-- 🎮 *Rock–Paper–Scissors Game (Python)*  
-- 🧾 *To-Do List with file handling*
-
-(More coming soon…)
+in progress
 
 ---
 
