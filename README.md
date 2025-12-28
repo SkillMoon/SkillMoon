@@ -13,7 +13,7 @@ Currently focusing on:
 **Languages:** Python  
 **Tools:** Git, GitHub  
 **Databases:** SQLite, MySQL (Learning)  
-**Other:** OOP, Design Patterns (in progress)
+**Other:** OOP, Design Patterns 
 
 ---
 
@@ -26,7 +26,7 @@ Currently focusing on:
 ---
 
 ## 🔧 Projects
-in progress
+- CLI Student Manager  
 
 ---
 
