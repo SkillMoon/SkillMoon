@@ -27,7 +27,7 @@ Currently focusing on:
 
 ## 🔧 Projects
 - CLI Student Manager  
-
+- Habit Tracker
 ---
 
 ## 🎯 My Goals
