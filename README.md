@@ -27,6 +27,7 @@ Currently focusing on:
 
 ## 🔧 Projects
 - CLI Student Manager
+- Crawler
 - Library Management System
 - Habit Tracker
 ---
